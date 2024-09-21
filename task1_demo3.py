@@ -7,7 +7,7 @@ import math
 
 
 raindrops = []
-raindrop_speed = 5
+raindrop_speed = 0.05
 rain_angle = 0  # Angle in degrees
 
 
