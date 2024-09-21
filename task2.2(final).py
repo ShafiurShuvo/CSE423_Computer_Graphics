@@ -4,7 +4,7 @@ from OpenGL.GLU import *
 import random
 
 W_Width, W_Height = 500, 500
-speed = 5
+speed = 0.05
 
 blink = False
 frozen = False
@@ -124,9 +124,9 @@ def specialKeyListener(key, x, y):
         return
     
     if key == GLUT_KEY_UP:
-        speed += 1
+        speed += 0.001
     elif key == GLUT_KEY_DOWN:
-        speed -= 1
+        speed -= 0.001
 
 
 def init():
