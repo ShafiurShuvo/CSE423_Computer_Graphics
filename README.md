@@ -13,11 +13,9 @@ Download the OpenGL library from the following link:
 - After downloading, extract the ZIP file into a **new folder** on your computer.
 - Name this folder **OpenGL_Setup** (or any name you prefer).
 
-### **Step 3: Setup OpenGL in Your Project**
-- Inside the extracted folder, locate the necessary **OpenGL files** (such as `.h`, `.lib`, and `.dll`).
+### **Step 3: Setup OpenGL**
+- Inside the extracted folder, locate the necessary **Assignment files**.
 - Ensure your **compiler** (e.g.,Visual Studio, PyCharm) is set up to **link** these OpenGL files.
-
-## **📜 Table of Contents (Tasks & Questions)**
 
 Below are the links to all the **tasks and challenges** in this repository:
 
