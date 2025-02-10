@@ -18,7 +18,7 @@ Download the OpenGL library from the following link:
 - Ensure your **compiler** (e.g.,Visual Studio, PyCharm) is set up to **link** these OpenGL files.
 
 
-# Below are the links to all the **tasks and challenges** in this repository:
+# Below are the links to all the **tasks** in this repository:
 
 ### **1️⃣ Assignemnt- 1 task- 1**
 - 🔵 **[Building a House in Rainfall](https://github.com/ShafiurShuvo/CSE423_Computer_Graphics/tree/main/Assignment_1_task_1)**
