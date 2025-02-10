@@ -19,17 +19,14 @@ Download the OpenGL library from the following link:
 
 Below are the links to all the **tasks and challenges** in this repository:
 
-### **1️⃣ Shooting Game Project**
-- 🎯 **[Shooting Game Rules & Implementation](./Shooting_Game/README.md)**  
+### **1️⃣ Assignemnt- 1 task- 1**
+- 🔵 **[Building a House in Rainfall](./Moving_Points_Box/README.md)**
 
-### **2️⃣ Catch the Diamonds! Game**
-- 💎 **[Catch the Diamonds Game Instructions](./Catch_The_Diamonds/README.md)**  
+### **2️⃣ Assignemnt- 1 task- 2**
+- 🔵 **[Building the Amazing Box](./Moving_Points_Box/README.md)**
 
-### **3️⃣ Moving & Blinking Points in a Box**
-- 🔵 **[Random Moving Points Box](./Moving_Points_Box/README.md)**  
+### **3️⃣ Assignemnt- 2**
+- 💎 **[Catch the Diamonds! Game](./Catch_The_Diamonds/README.md)**
 
-### **4️⃣ Midpoint Line & Circle Drawing Algorithms**
-- 📐 **[Midpoint Line & Circle Drawing](./Graphics_Algorithms/README.md)**  
-
-### **5️⃣ OpenGL Button Controls**
-- 🎮 **[Game Control Buttons (Restart, Play/Pause, Exit)](./Game_Buttons/README.md)**
+### **4️⃣ Assignemnt- 3**
+- 🎯 **[Shoot The Circles! Game](./Shooting_Game/README.md)**  
